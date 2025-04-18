@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Kaitlyn :)
+
+**About Me:**
+- 🧬 Interested in single-cell RNA-seq analysis, gene regulatory networks, and spatial transcriptomics
+- ⏱️ Developing a novel pseudotime algorithm for time-series single-cell RNA-seq data
+- 🐋 On a mission to use GitHub more...
+- 🔭 Pronouns: she/her
+
+
 
 <!--
 **kaitlynramesh/kaitlynramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
