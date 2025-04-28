@@ -7,7 +7,7 @@
 
 ## Featured Projects
 
-- [RETRO](https://github.com/kaitlynramesh/RETRO/) - Inferring real time-calibrated pseudotime to capture the kinetics of cell state transitions 
+- RETRO - Inferring real time-calibrated pseudotime to capture the kinetics of cell state transitions 
 - [SPaTuLa](https://github.com/jtkern/SPaTuLa/) - A spatial patterning simulator based on cell-cell interactions and ligand diffusion
 - [Myowearable](https://github.com/AnanyaT129/Cornerstone-Final-Project) - Time-series sEMG data analysis workflow to evaluate athlete fatigue and prevent reinjury 
 
