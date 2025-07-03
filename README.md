@@ -13,9 +13,6 @@
 
 ![Static Badge](https://img.shields.io/badge/R-161b22?style=for-the-badge&logo=R) ![Static Badge](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=Python)
 
-![alt text](https://i.pinimg.com/236x/71/96/39/7196397891fc6b5dcff1d3cdd6e23bf6.jpg)
-#### Thanks for visiting my GitHub page! <3
-
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaitlynramesh&show_icons=true&theme=radical)
 -->
